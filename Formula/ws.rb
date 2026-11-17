@@ -1,8 +1,8 @@
 class Ws < Formula
   desc "Group repos into one workspace for VS Code, Cursor, Claude Code, and Codex"
   homepage "https://github.com/RaviDasari/workspaces"
-  url "https://github.com/RaviDasari/workspaces/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "5c76b4f53a13a39a95934c4347b2ed7067599b79c0502fc1088eae848acc355d"
+  url "https://github.com/RaviDasari/workspaces/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "ded7b1b0aa61cf0c377aef60341dacea7af9d85384c383c044b0a86e8a0126d0"
   license "MIT"
 
   def install
